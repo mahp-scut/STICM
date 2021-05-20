@@ -5,6 +5,7 @@ Code and datasets for paper "Spatiotemporal convolutional network for time-serie
 - A spatiotemporal convolutional network (STCN), was developed to efficiently and accurately render a multistep-ahead prediction of a time series by employing a spatial-temporal information (STI) transformation.
 
 ## Data avalability
+
 - We put data file including the locations of traffic loops in folder [datasets/traffic](./datasets/traffic).
 - The locations of all 155 meteorological stations used in wind speed dataset are provided in folder [datasets/ws](./datasets/ws).
 - Other dataset are uploaded to Google Drive, and can be downloaded [here](https://drive.google.com/file/d/1THvn_D5TG_cW5rHVTjxOFQN7i0mu1Dgj/view?usp=sharing).
