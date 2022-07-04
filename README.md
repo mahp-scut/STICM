@@ -1,8 +1,8 @@
-# STCN
-Code and datasets for paper "Spatiotemporal convolutional network for time-series prediction and its causal factor inference"
+# STICM
+Code and datasets for paper "Spatiotemporal information conversion machine for time-series prediction with causal inference"
 
-## Spatiotemporal convolutional network for time-series prediction and its causal factor inference
-- A spatiotemporal convolutional network (STCN), was developed to efficiently and accurately render a multistep-ahead prediction of a time series by employing a spatial-temporal information (STI) transformation.
+## Spatiotemporal information conversion machine for time-series prediction with causal inference
+- A spatiotemporal information conversion machine (STICM), was developed to efficiently and accurately render a multistep-ahead prediction of a time series by employing a spatial-temporal information (STI) transformation.
 
 ## Data avalability
 
