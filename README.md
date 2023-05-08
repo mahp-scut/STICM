@@ -1,7 +1,9 @@
-# STICM
-Code and datasets for paper "Spatiotemporal information conversion machine for time-series prediction with causal inference"
+# STICM: Spatiotemporal information conversion machine for time-series forecasting
+This respository includes codes and datasets for paper "Spatiotemporal information conversion machine for time-series forecasting".
 
-## Spatiotemporal information conversion machine for time-series prediction with causal inference
+ The [paper](https://doi.org/10.1016/j.fmre.2022.12.009) is online on [Fundamental Research](https://www.sciencedirect.com/journal/fundamental-research) journal. 
+
+## Spatiotemporal information conversion machine for time-series forecasting
 - A spatiotemporal information conversion machine (STICM), was developed to efficiently and accurately render a multistep-ahead prediction of a time series by employing a spatial-temporal information (STI) transformation.
 
 ## Data avalability
@@ -27,3 +29,16 @@ Code and datasets for paper "Spatiotemporal information conversion machine for t
 ## Examples
 
 - The example movie in terms of traffic speed prediction mentioned in our paper is given in folder [example_movies/traffic_movie.mp4](./example_movies/traffic_movie.mp4).
+
+## Citation
+
+If you find this repository useful in your research, please consider citing the following papers:
+```
+@article{peng2022spatiotemporal,
+  title={Spatiotemporal information conversion machine for time-series forecasting},
+  author={Peng, Hao and Chen, Pei and Liu, Rui and Chen, Luonan},
+  journal={Fundamental Research},
+  year={2022},
+  publisher={Elsevier}
+}
+```
